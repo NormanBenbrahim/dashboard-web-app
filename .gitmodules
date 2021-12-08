@@ -1,0 +1,6 @@
+[submodule "dashboard-server"]
+	path = dashboard-server
+	url = https://github.com/NormanBenbrahim/dashboard-server
+[submodule "dashboard-client"]
+	path = dashboard-client
+	url = https://github.com/NormanBenbrahim/dashboard-client
